@@ -1,0 +1,165 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+/* html,body{
+  height: 100%;
+  width: 100%;  
+} */
+
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #090909;
+  /* height: ; */
+}
+
+.heading {
+  font-weight: bolder;
+  font-size: 4vmax;
+  margin: auto;
+}
+/* .heading2{
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  text-decoration-skip-ink: none;
+  margin: auto;
+} */
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin: auto;
+  margin-bottom: 0%;
+  margin-block: 1.5vh;
+}
+
+.footer {
+  font-size: xx-large;
+  background: linear-gradient(to top, #7c9acb, #3c6ab5);
+  position: absolute;
+
+  bottom: 0;
+  width: 100%;
+  /* height: 13%; */
+  color: black;
+}
+.footer2 {
+  /* margin-top: 25%; */
+  font-size: x-large;
+  background: linear-(to top, #7c9acb, #3c6ab5);
+  position: auto;
+  margin-bottom: 100%;
+  color: rgb(0, 0, 0);
+  /* margin: auto; */
+  padding: 0;
+
+}
+
+/* email input box */
+
+.email-input-container {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 50px;
+  /* box-sizing: content-box; */
+  padding: 15px 25px 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: auto;
+  margin-top: 7.6vh;
+}
+
+.email-input {
+  flex-grow: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 16px;
+  color: #000000;
+}
+
+.email-input::placeholder {
+  color: #d1d5db;
+}
+
+.email-submit-button {
+  background-color: #e5efff;
+  border: none;
+  outline: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+}
+
+.email-submit-button:hover {
+  background-color: #869dbd;
+}
+
+/* page2 */
+
+.app2 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #090909;
+}
+
+.circle2 {
+  width: 250px;
+  height: 250px;
+  background-color: #d1d5db;
+  border-radius: 50%;
+  /* display: flex; */
+  align-items: center;
+  /* margin-left: 10%;
+  margin-right: 10%; */
+  /* margin-bottom: 1.5rem; */
+}
+
+/* .text-content2 p {
+  margin: 5px 0;
+  font-size: 16px;
+} */
+
+/* .social-icons2 {
+  margin: 20px 0;
+  
+} */
+
+/* .social-icons2 a {
+  margin: 0 10px;
+  font-size: 24px;
+  text-decoration: none;
+  color: #007bff;
+} */
+
+/* .social-icons2 a:hover {
+  color: #0056b3;
+} */
+
+/* .footer-note2 {
+  margin-top: 20px;
+  font-size: 14px;
+} */
+
+.heading2 {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  line-height: 40px;
+  /* text-align: right; */
+  margin-left: 35%;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  font-size: 2.5vmax;
+}
