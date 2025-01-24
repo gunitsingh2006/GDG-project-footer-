@@ -11,6 +11,7 @@ const App = () => {
 
         
 <div className="flex items-center ">
+       
         <div className="circle2"></div> 
        
         <div className="heading2"><h3>  No sleep, all caffeine, and bugs are plot twists! <br />  Break, build, repeat and rule tech!
@@ -21,10 +22,12 @@ const App = () => {
 
         <footer className="footer2 mt-96 ">
         <div className="flex my-20 justify-center  space-x-6 mb-6 text-blue-600">
-          <a href="#" className="text-2xl hover:text-blue-800" aria-label="Instagram">📷</a>
+         <img src="src/components/Frame 31.png" alt="" />
+          {/* <a href="#" className="text-2xl hover:text-blue-800" 
+          ></a>
           <a href="#" className="text-2xl hover:text-blue-800" aria-label="LinkedIn">🔗</a>
           <a href="#" className="text-2xl hover:text-blue-800" aria-label="Email">📧</a>
-          <a href="#" className="text-2xl hover:text-blue-800" aria-label="GitHub">🐙</a>
+          <a href="#" className="text-2xl hover:text-blue-800" aria-label="GitHub">🐙</a> */}
         </div>
         
         <p>Made with <span role="img" aria-label="love">❤️</span> by GDG-GTBIT</p>
