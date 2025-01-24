@@ -55,7 +55,7 @@
   font-size: x-large;
   background: linear-(to top, #7c9acb, #3c6ab5);
   position: auto;
-  margin-bottom: 100%;
+  /* margin-bottom: 100%; */
   color: rgb(0, 0, 0);
   /* margin: auto; */
   padding: 0;

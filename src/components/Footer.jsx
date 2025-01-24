@@ -19,7 +19,7 @@ const App = () => {
      
         
 
-        <footer className="footer2 mt-96 m-0">
+        <footer className="footer2 mt-96 ">
         <div className="flex my-20 justify-center  space-x-6 mb-6 text-blue-600">
           <a href="#" className="text-2xl hover:text-blue-800" aria-label="Instagram">📷</a>
           <a href="#" className="text-2xl hover:text-blue-800" aria-label="LinkedIn">🔗</a>
