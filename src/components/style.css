@@ -30,9 +30,9 @@
   text-decoration-skip-ink: none;
   margin: auto;
 } */
- .pack{
+.pack {
   width: 100%;
- }
+}
 .circle {
   width: 200px;
   height: 200px;
@@ -62,7 +62,6 @@
   color: rgb(0, 0, 0);
   /* margin: auto; */
   padding: 0;
-
 }
 
 /* email input box */
@@ -117,7 +116,23 @@
   text-align: center;
   color: #090909;
 }
+.social {
+ /* background-color: yellow; */
+ /* instagram */
+ width: 41px;
+ height: 41px;
+ gap: 0px;
+ opacity: 0px;
+ 
+/* position: absolute; */
+/* left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%; */
 
+
+
+}
 
 .circle2 {
   width: 250px;
