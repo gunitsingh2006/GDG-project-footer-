@@ -4,7 +4,7 @@ import "./style.css";
 const App = () => {
   return (
     <React.Fragment>
-      <div className="app2 min-h-screen ">
+      <div className="app2 min-h-screen">
         {/* Main Container */}
 
         {/* Circle */}
@@ -20,9 +20,9 @@ const App = () => {
             </h3>
           </div>
         </div>
-<div className="foot ">
-        <footer className="footer2 ">
-          <div className="flex my-20 justify-center  space-x-6 mb-5 text-blue-600">
+<div className="foot mt-96">
+        <footer className="footer2  ">
+          <div className="flex my-20 justify-center  space-x-6 mb-6 text-blue-600">
             <a href="https://www.instagram.com">
               <img
                 className="social"
