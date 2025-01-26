@@ -6,4 +6,10 @@ body {
     background-color: #C7DCFE;
 }
 
-
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Pixelify Sans", serif;
+  }
+  
